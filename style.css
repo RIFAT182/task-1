@@ -14,3 +14,44 @@ body{
     font-weight: 400;
     padding-right: 20px;   
 }
+#green{
+    color: green;
+}
+.linkbutton{
+    text-decoration: none;
+    background-image: linear-gradient(orange,yellow);
+    padding: 7px 7px;
+    border-radius: 7px;
+    color:whitesmoke;
+    font-weight: 400;
+    border-color: red;
+    
+}
+.img1{
+   border-radius: 50%;
+   width: 350px;
+   height: 450px;
+   padding-top: 30px;
+   padding-left:20px;
+   padding-right: 20px;
+}
+.top-2{
+    display: flex;
+    background-image: linear-gradient(rgb(59, 59, 223),ivory);
+    
+}
+.half-width{
+    width: 50%;
+    padding-left:20px;
+    padding-top: 80px;
+    text-align: left;
+}
+.column{
+    width: 200px;
+    height: 200px;
+    display: flex;
+}
+.row{
+    display: flex;
+    
+}
